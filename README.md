@@ -7,6 +7,11 @@ A **self-hosted** disposable mailbox  service (aka trash mail)  :cloud: :envelop
 
 ![Screenshot](screenshot_example.png)
 
+### Deploy to Heroku
+
+1. Fork this Repo.
+2. Apply the imap settings in config.php file.
+3. Click on Deploy Button.
 
 ## Features
 
@@ -56,11 +61,6 @@ Install php dependecies:
 
     composer update
 
-### Deploy to Heroku
-
-1. Fork this Repo.
-2. Apply the imap settings in config.php file.
-3. Click on Deploy Button.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
