@@ -13,6 +13,8 @@ A **self-hosted** disposable mailbox  service (aka trash mail)  :cloud: :envelop
 2. Apply the imap settings in config.php file.
 3. Click on Deploy Button.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Features
 
 * Anonymous usage, generate random email addresses. 
@@ -60,9 +62,7 @@ The src directory contains all required files. If you want to update the php dep
 Install php dependecies:
 
     composer update
-
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+    
 
 ## Credit :thumbsup:
 
